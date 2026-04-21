@@ -28,8 +28,8 @@ Follow the steps below to clone the repository, restore dependencies, and run th
 1. Clone the repository and navigate to the project directory:
 
    ```bash
-   git clone <repository-url>
-   cd ASPNET-Core-DataGrid-Editing-FrozenColumns-Focus-Clicked-Cell
+   git clone https://github.com/SyncfusionExamples/EJ2-DataGrid-Core-Editing-FrozenColumns-focus-clicked-cell.git
+   cd EJ2-DataGrid-Core-Editing-FrozenColumns-focus-clicked-cell
    ```
 
 2. Restore the required NuGet packages:
